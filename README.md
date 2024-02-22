@@ -8,7 +8,7 @@ This repository is regarding generating data from the excitation of the cantilev
 
 
 
-## TEST BENCH 
+## Test Bench and setup explanation 
 The experimental setup is shown in Figure 1. For the experiment purpose, a steel cantilever beam structure of 759x 50.66 x 5.14 mm is used and a single Integral Electronics Piezoelectric (IEPE) accelerometer (model J352C33 manufactured by PCB Piezotronics) is mounted close to the edge of the beam structure. This accelerometer has a frequency range of 0.5 Hz to 9k Hz with a sensitivity of 100 mV/g. The sensor data is digitized using a 24-bit NI-9234 IEPE signal conditioner manufactured by National Instruments. The beam is excited by an electromagnetic shaker (model V203R manufactured by LDS), with a useful frequency range of 5-13000Hz and a peak sine force of 17.8N, and is driven by a power amplifier (model PA25E-CE manufactured by LDS). A 45 N load cell (model MLP-10 manufactured by Transducer Techniques) is mounted in-between the shaker and beam structure. A 24-bit bridge input signal conditioner (NI-9237 manufactured by National Instruments) is used to acquire the load-cell data. The experiment is run through a control computer with a Virtual Instrument written in LabVIEW.
 
 
@@ -74,7 +74,7 @@ Figure 1: Experimental setup of a cantilever beam with key components and data a
 
 
 
-## DATA SETS
+## Data sets
 * Using this labview code and produced all the data sets are available in the below repository with a more detailed explanation.
 *Puja Chowdhury, Austin Downey, Jason D. Bakos and Philip Conrad, “Dataset-4-univariate-signal-with-nonstationarity,”
 Apr. 2021. [Online]. Available:https://github.com/PujaChowdhury/Dataset-4-Univariate-signal-with-non-stationarity
