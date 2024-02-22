@@ -2,8 +2,8 @@
 This repository is regarding generating data from the excitation of the cantilever beam.
 ## How to run:
 1. Cantileverbeam_experiment_data_generation.vi:  This is the LabVIEW code for generating data.
-1. Input_Signal:  This folder contains the input signal (pre-produced as requirements) as a Txt file. This signal feeds to the shaker as an excitation signal.
-2. Save_Data: This folder will save the generated data. 
+1. Input_Signal:  This folder contains the input signal (pre-produced as requirements) as a .txt file. This signal feeds to the shaker as an excitation signal.
+2. Save_Data: This folder will save the generated data as a .lvm file. 
 
 
 
