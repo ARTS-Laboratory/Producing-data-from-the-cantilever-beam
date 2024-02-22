@@ -77,7 +77,7 @@ Figure 1: Experimental setup of a cantilever beam with key components and data a
 ## DATA SETS
 * Using this labview code and produced all the data sets are available in the below repository with a more detailed explanation.
 *Puja Chowdhury, Austin Downey, Jason D. Bakos and Philip Conrad, “Dataset-4-univariate-signal-with-nonstationarity,”
-Apr. 2021. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/Dataset-4-Univariate-signal-with-non-stationarity
+Apr. 2021. [Online]. Available:https://github.com/PujaChowdhury/Dataset-4-Univariate-signal-with-non-stationarity
 
 
 
